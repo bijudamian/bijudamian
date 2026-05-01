@@ -90,11 +90,7 @@ const biju = {
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bijudamian/bijudamian/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bijudamian/bijudamian/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/bijudamian/bijudamian/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="https://ghchart.rshah.org/00bfff/bijudamian" alt="Biju's Github chart" width="100%" />
 
 </div>
 
@@ -104,6 +100,6 @@ const biju = {
 
 *Building things that work, ship fast, and solve real problems.*
 
-<!-- streak: 2026-04-25 -->
+<!-- streak: 2026-05-01 -->
 
 </div>
