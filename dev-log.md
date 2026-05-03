@@ -7,3 +7,5 @@ Running notes on ongoing development work.
 - improved TypeScript types and interfaces
 - updated dependencies to latest stable versions
 - optimised database queries for faster load times
+### 2026-05-03
+- reviewed pull request and merged feature branch
