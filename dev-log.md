@@ -11,3 +11,4 @@ Running notes on ongoing development work.
 - reviewed pull request and merged feature branch
 ### 2026-05-05
 - added edge case handling for empty states
+- refactored component structure for better reusability
