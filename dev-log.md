@@ -9,3 +9,5 @@ Running notes on ongoing development work.
 - optimised database queries for faster load times
 ### 2026-05-03
 - reviewed pull request and merged feature branch
+### 2026-05-05
+- added edge case handling for empty states
