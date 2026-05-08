@@ -12,3 +12,5 @@ Running notes on ongoing development work.
 ### 2026-05-05
 - added edge case handling for empty states
 - refactored component structure for better reusability
+### 2026-05-08
+- fixed race condition in concurrent state updates
