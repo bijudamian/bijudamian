@@ -14,3 +14,5 @@ Running notes on ongoing development work.
 - refactored component structure for better reusability
 ### 2026-05-08
 - fixed race condition in concurrent state updates
+### 2026-05-10
+- updated CI/CD pipeline configuration
