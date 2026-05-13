@@ -18,3 +18,4 @@ Running notes on ongoing development work.
 - updated CI/CD pipeline configuration
 ### 2026-05-13
 - updated deployment configuration for production
+- added loading state and skeleton screens
