@@ -16,3 +16,5 @@ Running notes on ongoing development work.
 - fixed race condition in concurrent state updates
 ### 2026-05-10
 - updated CI/CD pipeline configuration
+### 2026-05-13
+- updated deployment configuration for production
