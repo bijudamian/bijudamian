@@ -19,3 +19,5 @@ Running notes on ongoing development work.
 ### 2026-05-13
 - updated deployment configuration for production
 - added loading state and skeleton screens
+### 2026-05-14
+- improved form validation and user feedback
