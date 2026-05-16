@@ -21,3 +21,5 @@ Running notes on ongoing development work.
 - added loading state and skeleton screens
 ### 2026-05-14
 - improved form validation and user feedback
+### 2026-05-16
+- cleaned up unused imports and dead code
