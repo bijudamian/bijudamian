@@ -23,3 +23,5 @@ Running notes on ongoing development work.
 - improved form validation and user feedback
 ### 2026-05-16
 - cleaned up unused imports and dead code
+### 2026-05-17
+- improved form validation and user feedback
