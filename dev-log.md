@@ -25,3 +25,5 @@ Running notes on ongoing development work.
 - cleaned up unused imports and dead code
 ### 2026-05-17
 - improved form validation and user feedback
+### 2026-05-18
+- improved global state management logic
