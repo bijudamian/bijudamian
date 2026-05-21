@@ -29,3 +29,5 @@ Running notes on ongoing development work.
 - improved global state management logic
 ### 2026-05-19
 - improved error handling in async functions
+### 2026-05-21
+- cleaned up unused imports and dead code
