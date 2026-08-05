@@ -77,8 +77,8 @@ const biju = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bijudamian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=ffffff" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijudamian&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=ffffff" height="165" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bijudamian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=ffffff" height="165" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bijudamian&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=ffffff" height="165" />
 
 <img src="https://streak-stats.demolab.com?user=bijudamian&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" />
 
