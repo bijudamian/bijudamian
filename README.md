@@ -5,7 +5,7 @@
 **Full-Stack Engineer · AI/ML Builder · SaaS Founder**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bijudamian)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://biju0x.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://biju0x.me)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/bijudamian)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bijudamian&color=00bfff&style=flat&label=Profile+Views)
